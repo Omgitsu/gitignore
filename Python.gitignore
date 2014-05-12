@@ -62,4 +62,6 @@ include
 # chef
 chef-repo/
 
+# PyCharm
+.idea/
 
