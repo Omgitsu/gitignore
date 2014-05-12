@@ -42,3 +42,24 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+# vagrant
+.vagrant
+Vagrant
+Procfile
+Vagrantfile
+
+# Heroku
+.env
+
+#virtualenv
+.Python
+include
+
+# osx
+.DS_Store
+
+# chef
+chef-repo/
+
+
